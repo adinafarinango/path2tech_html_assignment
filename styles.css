@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    background-color: #cbd6e2;
+}
+
+h1 {
+
+    color: #5c62d6;
+    text-align: center;
+  
+}
+
+.container{
+
+    color: #253342;
+}
+
+.container #addITTeamMemberForm p {
+    color: #fff;
+    font-size: 16px;
+}
+
+#addITTeamMemberForm label {
+    font-size: 16px;
+    font-weight: bold; 
+    color: #be398d;
+
+  
+}
+
+table {
+    background-color: #fff;
+    padding: 1%;
+    font-size: 14px;
+}
+
+th {
+    background-color: #5c62d6;
+    color: #fff; 
+    text-align: left; }
